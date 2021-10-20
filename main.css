@@ -288,3 +288,7 @@ svg {
     transform: none;
   }
 }
+
+audio {
+  width: 200px;
+}

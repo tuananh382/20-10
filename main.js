@@ -369,7 +369,6 @@ function showSaved() {
   
   if(heart.classList.contains("heart-filled")){
       save.innerHTML = 'LOVE KHANH LINH <3';
-      
     
   } else {
      save.innerHTML = ''; 
