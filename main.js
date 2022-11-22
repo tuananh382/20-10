@@ -368,7 +368,7 @@ heart.addEventListener('click', toggleHeart);
 function showSaved() {
   
   if(heart.classList.contains("heart-filled")){
-      save.innerHTML = 'LOVE KHANH LINH <3';
+      save.innerHTML = 'LOVE';
     
   } else {
      save.innerHTML = ''; 
